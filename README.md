@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anshuk Swarnkar
 
-**📊 BS in Data Science @ IIT Madras**
-**🎓 B.Tech Chemical Engineering @ BIT Sindri**
+**📊 BS in Data Science @ IIT Madras** |
+**🎓 B.Tech Chemical Engineering @ BIT Sindri** |
 **💡 Interested in Data Science, AI, and Backend Development**
 
 ---
