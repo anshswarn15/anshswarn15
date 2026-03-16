@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Anshuk Swarnkar
 
-<!--
-**anshswarn15/anshswarn15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 BS in Data Science @ IIT Madras
+🎓 B.Tech Chemical Engineering @ BIT Sindri
+💡 Interested in Data Science, AI, and Backend Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+**Programming Languages**
+🐍 Python
+
+**Backend Development**
+⚡ FastAPI, Node.js
+
+**Databases**
+🗄 PostgreSQL
+
+**NLP & LLM Tools**
+🤖 Basics of LangChain
+
+**Visualization Libraries**
+📊 Matplotlib, Seaborn
+
+**Web Scraping**
+🕸 BeautifulSoup, Selenium
+
+**DevOps & Tools**
+🐳 Docker, Git, GitHub
+
+---
+
+
+## 🌱 Currently Learning
+
+* Flask
+* LLM Applications
+
