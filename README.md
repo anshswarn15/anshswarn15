@@ -12,7 +12,7 @@
 🐍 Python
 
 **Backend Development**
-⚡ FastAPI, Node.js
+⚡ Flask
 
 **Databases**
 🗄 PostgreSQL
