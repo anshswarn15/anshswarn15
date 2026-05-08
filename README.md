@@ -1,39 +1,38 @@
 # Hi 👋, I'm Anshuk Swarnkar
 
-**📊 BS in Data Science @ IIT Madras** |
-**🎓 B.Tech Chemical Engineering @ BIT Sindri** |
-**💡 Interested in Data Science, AI, and Backend Development**
+📊 BS in Data Science @ IIT Madras |  
+🎓 B.Tech Chemical Engineering @ BIT Sindri |  
+💡 Interested in AI, NLP, Backend Development, and Data Science
 
 ---
 
 ## 🚀 Skills
 
-**Programming Languages**
-🐍 Python
+### Programming Languages
+🐍 Python, SQL
 
-**Backend Development**
-⚡ Flask
+### Backend Development
+⚡ Flask, REST APIs
 
-**Databases**
-🗄 PostgreSQL
+### Databases
+🗄 PostgreSQL, SQLAlchemy
 
-**NLP & LLM Tools**
-🤖 Basics of LangChain
+### AI & NLP
+🤖 LangChain, NLP
 
-**Visualization Libraries**
+### Visualization Libraries
 📊 Matplotlib, Seaborn
 
-**Web Scraping**
+### Web Scraping
 🕸 BeautifulSoup, Selenium
 
-**DevOps & Tools**
+### DevOps & Tools
 🐳 Docker, Git, GitHub
 
 ---
 
-
 ## 🌱 Currently Learning
 
-* Flask
-* LLM Applications
-
+* Advanced Flask Development  
+* LLM Applications  
+* Backend Architecture & APIs
