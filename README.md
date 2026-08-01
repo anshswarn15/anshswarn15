@@ -2,7 +2,7 @@
 
 📊 BS in Data Science @ IIT Madras |  
 🎓 B.Tech Chemical Engineering @ BIT Sindri |  
-💡 Interested in AI, NLP, Backend Development, and Data Science
+💡 Interested in AI, Machine Learning, NLP, Backend Development, and Data Science
 
 ---
 
@@ -10,6 +10,9 @@
 
 ### Programming Languages
 🐍 Python, SQL
+
+### Machine Learning
+🧠 Machine Learning, Scikit-learn
 
 ### Backend Development
 ⚡ Flask, REST APIs
@@ -33,6 +36,4 @@
 
 ## 🌱 Currently Learning
 
-* Advanced Flask Development  
-* LLM Applications  
-* Backend Architecture & APIs
+* 🤖 Building production-grade Agentic AI applications
