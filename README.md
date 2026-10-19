@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anshuk Swarnkar
 
-🚀 AI & Machine Learning Developer  
+🚀 AI & Backend Developer  
 📊 BS in Data Science @ IIT Madras  
 🎓 B.Tech in Chemical Engineering @ BIT Sindri
 
