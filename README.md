@@ -13,10 +13,12 @@ I enjoy building AI-powered applications, backend systems, and data-driven solut
 ### Languages
 - Python
 - SQL
+- Java
 
 ### Machine Learning
 - Scikit-learn
 - Machine Learning
+- Tensorflow
 
 ### AI & NLP
 - LangChain
@@ -37,6 +39,7 @@ I enjoy building AI-powered applications, backend systems, and data-driven solut
 ### Web Scraping
 - BeautifulSoup
 - Selenium
+- Playwright
 
 ### Tools & DevOps
 - Docker
@@ -57,6 +60,7 @@ I enjoy building AI-powered applications, backend systems, and data-driven solut
 
 - Artificial Intelligence
 - Machine Learning
+- Deep Learning
 - Natural Language Processing
 - Backend Development
 - Data Science
